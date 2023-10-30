@@ -29,6 +29,8 @@ Search History Feature
 
 Functionality: Clicking on a city in the search history results in the reappearance of current and future conditions for that specific city.
 
+The link to the [weather forecast](https://ajabadi.github.io/Weather-dashboard/)
+
 <img width="1151" alt="Screen Shot 2023-10-30 at 13 56 53" src="https://github.com/ajabadi/Weather-dashboard/assets/145517793/0aba956f-353f-4ff0-ba7f-839849b62ae6">
 
 
